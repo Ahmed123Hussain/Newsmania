@@ -1,0 +1,114 @@
+body{
+  padding: 25px;
+  background: #fdfc47; /* Bright Yellow */
+background-image: url('https://www.transparenttextures.com/patterns/diagonal-noise.png');
+ 
+
+}
+
+.head{
+  border-bottom: dashed red 2px;
+  margin-bottom:0px;
+  
+}
+
+
+h5{
+  margin-top: 0px;
+}
+
+.logo{
+  position: absolute;
+  top:10px;
+  left: 75%;
+  bottom: 75%;
+  color:lightblue;
+}
+
+.date{
+    position: absolute;
+    top:70px;
+    left:75%;
+    bottom:60%;
+  
+}
+
+.tois{
+  position: absolute;
+  border-top:30px solid;
+  padding:5px;
+  height: 300px;
+  width: 300px;
+  top:150px;
+  width:300px;
+  background: yellow;
+  
+  
+}
+
+.toin{
+  position: absolute;
+  border-top:30px solid;
+  padding:5px;
+  height: 300px;
+  width: 300px;
+  top:150px;
+  width:300px;
+  left:500px;
+  background: yellow;
+}
+
+.tois-t{
+  margin-left: 5px;
+  color:white;
+  position:absolute;
+  top:135px;
+  z-index:2;
+}
+
+.toin-t{
+  z-index:2;
+  position: absolute;
+  top:135px;
+  margin-left:475px;
+  color:white;
+}
+
+.arabn{
+  position: absolute;
+  border-top:30px solid;
+  padding:5px;
+  height: 300px;
+  width: 300px;
+  top:580px;
+  width:300px;
+  background: yellow;
+}
+
+.siasat{
+  position: absolute;
+  border-top:30px solid;
+  padding:5px;
+  height: 300px;
+  width: 300px;
+  top:580px;
+  width:300px;
+  left:500px;
+  background: yellow;  
+}
+
+.arabn-t{
+  position: absolute;
+  top:570px;
+  margin-left: 5px;
+  color:white;
+  z-index: 2;
+}
+
+.siasat-t{
+  z-index:2;
+  position: absolute;
+  top:570px;
+  margin-left:475px;
+  color:white;
+}
